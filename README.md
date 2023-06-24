@@ -21,7 +21,7 @@ This is a classic Snake Game built using vanilla JavaScript. The game allows pla
 
 ### Links
 
-- Live Demo: [Play Snake Game](https://example.com)
+- Live Demo: [Play Snake Game](https://bansalgokul.github.io/Snake-Game-Vanilla-JS/)
 - Repository: [GitHub](https://github.com/bansalgokul/Snake-Game-Vanilla-JS/)
 
 ## Features
